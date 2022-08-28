@@ -8,7 +8,7 @@ function Footer() {
     
     return (
         <footer>
-            <p> &copy; copyright {year} </p>
+            <p> &copy; copyright {year}, Ana Freitas </p>
         </footer>
     );
 };
