@@ -19,7 +19,6 @@
  <br>
 
 
-
 ## 🚀 Como executar o projeto
 
 
