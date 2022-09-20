@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="#" alt="site do keeper"> KEEPER </a></h1>
+<h1 align="center"><a href="#" alt="site do keeper"> KEEPER 📝 </a></h1>
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Keeper-app-react?style=for-the-badge)
