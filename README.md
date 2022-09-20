@@ -8,14 +8,16 @@
 
 ![preview](./.github/preview.png)
 
-<br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> 
+<br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
 
 ## 💻 Descrição do projeto 
 
- O Keeper foi criado como projeto final do modulo React.js do Bootcamp Web Development, e inspirado no google keep. 
+ O Keeper é um projeto inspirado no google keep e ajuda na criação e organização de anotações. 
+ 
+ A aplicação foi criada como projeto final do modulo React.js do Bootcamp Web Development. 
  
 
-<br>
+
 
 ## 🚀 Como executar o projeto
 
