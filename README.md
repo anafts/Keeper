@@ -16,11 +16,11 @@
  
  A aplicação foi criada como projeto final do modulo React.js do Bootcamp Web Development. 
  
+ <br>
 
 
 
 ## 🚀 Como executar o projeto
-
 
 
 ### ⚠️ Pré-requisitos:
@@ -29,7 +29,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-<br>
+
+
 
 ### 🔧 Como instalar e rodar a aplicação:
 
@@ -49,7 +50,7 @@ $ npm start
 # O servidor inciará na porta:3000 - acesse http://localhost:3000 
 ```
 
-
+<br>
 
 ## 🛠️ Linguagens, dependencias e libs utilizadas
 
