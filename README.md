@@ -12,7 +12,7 @@
 
 ## 💻 Descrição do projeto 
 
- O Keeper é um projeto inspirado no google keep e ajuda na criação e organização de anotações. 
+ O Keeper é um projeto inspirado no google keep e ajuda vocẽ na criação e organização de anotações. 
  
  A aplicação foi criada como projeto final do modulo React.js do Bootcamp Web Development. 
  
